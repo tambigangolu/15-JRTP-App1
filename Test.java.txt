@@ -1,5 +1,10 @@
 public class Test{
 
+	public void m1(){
+	
+		logic available;
+	}
+
 	public static void main(String[] args){
 	
 		System.out.println("Tambi Created this file in Tambi  folder in desktop");
